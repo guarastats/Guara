@@ -1,8 +1,8 @@
 ---
-name: New feature
-about: A new feature that must be implemented.
-title: "[NF000N] A Suggestive Title"
-labels: feature, important
+name: Course
+about: A task about courses
+title: "[CS0000] A Suggestive Title"
+labels: course, important
 assignees: ''
 
 ---
