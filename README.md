@@ -1,2 +1,2 @@
-# GuaraStats
-Brainstorms of Guará Stats
+# Guará Stats
+Repository for Guará Stats files.
